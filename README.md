@@ -62,6 +62,6 @@ Bachelor of Economics Education
 ## Connect With Me
 
 * LinkedIn: [https://www.linkedin.com/in/rizal-rahmadi-727029289/]
-* GitHub: [Your GitHub Profile]
+* GitHub: [https://github.com/rijallms01-byte]
 
 
