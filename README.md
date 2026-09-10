@@ -37,6 +37,8 @@ Interactive Power BI dashboard analyzing survey data from data professionals, in
 
 **Tools:** Power BI · Power Query · DAX · Data Visualization
 
+[View Project →] https://github.com/rijallms01-byte/PowerBI_Data_Professional_Survey
+
 ---
 
 ## Currently Learning
