@@ -28,6 +28,9 @@ Interactive Excel dashboard analyzing customer demographics, income, commute dis
 
 **Tools:** Excel · Pivot Table · Data Cleaning · Data Visualization
 
+[View Project →] https://github.com/rijallms01-byte/bike-sales-dashboard-excel
+
+
 ### Data Professional Survey Dashboard
 
 Interactive Power BI dashboard analyzing survey data from data professionals, including job roles, average salary, industries, countries, programming language preferences, work-life balance, and salary satisfaction.
