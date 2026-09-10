@@ -1,6 +1,6 @@
 # Hi, I'm Rizal Rahmadi 👋
 
-### Data Analyst | Excel | SQL | Power BI
+### Data Analyst | Business Intelligence | Excel | SQL | Power BI
 
 I am an Economics Education graduate from Universitas Negeri Yogyakarta with an interest in **Data Analytics, Business Intelligence, Financial Analysis, and Data Visualization**.
 
@@ -10,13 +10,13 @@ I enjoy transforming data into meaningful insights that can support better busin
 
 ## 🛠️ Skills & Tools
 
-* **Microsoft Excel** — Data Cleaning, Analysis & Visualization
-* **SQL** — Data Querying, Filtering, Aggregation & Joins
-* **Power BI** — Dashboard & Data Visualization
-* **Power Query** — Data Transformation & Cleaning
-* **DAX** — Data Modeling & Calculations
-* **Business Analysis** — Process Analysis & Visualization
-* **Financial Analysis** — Financial Ratios & Performance Analysis
+* **Microsoft Excel** 
+* **SQL**
+* **Power BI**
+* **Data Analysis**
+* **Business Intelligence**  
+* **Business Analysis** 
+* **Financial Analysis** 
 
 ---
 
