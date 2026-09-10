@@ -1,4 +1,4 @@
-# Hi, I'm Rizal Rahmadi 👋
+# Hi, I'm Rizal Rahmadi
 
 ### Data Analyst | Business Intelligence | Excel | SQL | Power BI
 
@@ -8,7 +8,7 @@ I enjoy transforming data into meaningful insights that can support better busin
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 * **Microsoft Excel** 
 * **SQL**
@@ -20,29 +20,23 @@ I enjoy transforming data into meaningful insights that can support better busin
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 💼 Career & Job Market Analysis
+### Bike Sales Dashboard
 
-Interactive Power BI dashboard analyzing job roles, industries, education levels, countries, age distribution, and programming language preferences.
+Interactive Excel dashboard analyzing customer demographics, income, commute distance, age groups, and bike purchase behavior to identify customer patterns and purchasing trends.
 
-**Tools:** Power BI · Power Query · DAX
+**Tools:** Excel · Pivot Table · Data Cleaning · Data Visualization
 
-### 🛒 E-Commerce Sales Analysis
+### Data Professional Survey Dashboard
 
-SQL-based analysis of sales, products, customers, and transaction performance to identify key business insights.
+Interactive Power BI dashboard analyzing survey data from data professionals, including job roles, average salary, industries, countries, programming language preferences, work-life balance, and salary satisfaction.
 
-**Tools:** SQL
-
-### 💰 Financial Performance Analysis
-
-Analysis of financial performance and financial ratios of Indonesian state-owned companies.
-
-**Tools:** Excel · Power BI · Financial Analysis
+**Tools:** Power BI · Power Query · DAX · Data Visualization
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Data Analytics
 * SQL
@@ -53,18 +47,16 @@ Analysis of financial performance and financial ratios of Indonesian state-owned
 
 ---
 
-## 🎓 Education
+## Education
 
 **Universitas Negeri Yogyakarta**
 Bachelor of Economics Education
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* LinkedIn: [Your LinkedIn Profile]
+* LinkedIn: [https://www.linkedin.com/in/rizal-rahmadi-727029289/]
 * GitHub: [Your GitHub Profile]
 
----
 
-⭐ *Turning data into insights, one analysis at a time.*
